@@ -1,1 +1,1 @@
-# python-code-file-for-Ass_NM_1
+# This repository contain python code of some early question. 
